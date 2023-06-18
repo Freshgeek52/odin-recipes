@@ -1,2 +1,2 @@
-# odin-recipes
-This repos is for pizza recipe
+# Odin Recipes
+Here, you will find all you need to know about pizza recipe
