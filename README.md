@@ -1,5 +1,3 @@
 # Odin Recipes
-Here, you will find all you need to know about pizza recipe
+Here, you will find all you need to know about recipes of a mexican Pizza, Jollof-rice and Bunny-Chow
 
-## Visit Site
-Visit Site: https://freshgeek52.github.io/odin-recipes/
